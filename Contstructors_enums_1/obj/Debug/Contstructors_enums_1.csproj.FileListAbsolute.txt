@@ -1,0 +1,6 @@
+C:\Users\opilane\projects\Contstructors_enums_1\Contstructors_enums_1\bin\Debug\Contstructors_enums_1.exe.config
+C:\Users\opilane\projects\Contstructors_enums_1\Contstructors_enums_1\bin\Debug\Contstructors_enums_1.exe
+C:\Users\opilane\projects\Contstructors_enums_1\Contstructors_enums_1\bin\Debug\Contstructors_enums_1.pdb
+C:\Users\opilane\projects\Contstructors_enums_1\Contstructors_enums_1\obj\Debug\Contstructors_enums_1.csprojAssemblyReference.cache
+C:\Users\opilane\projects\Contstructors_enums_1\Contstructors_enums_1\obj\Debug\Contstructors_enums_1.exe
+C:\Users\opilane\projects\Contstructors_enums_1\Contstructors_enums_1\obj\Debug\Contstructors_enums_1.pdb

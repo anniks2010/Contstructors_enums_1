@@ -1,0 +1,5 @@
+C:\Users\opilane\projects\Contstructors_enums_1\Dog_contstructor\bin\Debug\Dog_contstructor.exe.config
+C:\Users\opilane\projects\Contstructors_enums_1\Dog_contstructor\bin\Debug\Dog_contstructor.exe
+C:\Users\opilane\projects\Contstructors_enums_1\Dog_contstructor\bin\Debug\Dog_contstructor.pdb
+C:\Users\opilane\projects\Contstructors_enums_1\Dog_contstructor\obj\Debug\Dog_contstructor.exe
+C:\Users\opilane\projects\Contstructors_enums_1\Dog_contstructor\obj\Debug\Dog_contstructor.pdb

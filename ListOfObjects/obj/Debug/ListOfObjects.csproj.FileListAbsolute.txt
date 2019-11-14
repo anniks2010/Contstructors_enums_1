@@ -1,0 +1,6 @@
+C:\Users\opilane\projects\Contstructors_enums_1\ListOfObjects\bin\Debug\ListOfObjects.exe.config
+C:\Users\opilane\projects\Contstructors_enums_1\ListOfObjects\bin\Debug\ListOfObjects.exe
+C:\Users\opilane\projects\Contstructors_enums_1\ListOfObjects\bin\Debug\ListOfObjects.pdb
+C:\Users\opilane\projects\Contstructors_enums_1\ListOfObjects\obj\Debug\ListOfObjects.exe
+C:\Users\opilane\projects\Contstructors_enums_1\ListOfObjects\obj\Debug\ListOfObjects.pdb
+C:\Users\opilane\projects\Contstructors_enums_1\ListOfObjects\obj\Debug\ListOfObjects.csprojAssemblyReference.cache

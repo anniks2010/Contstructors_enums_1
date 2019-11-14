@@ -1,0 +1,5 @@
+C:\Users\opilane\projects\Contstructors_enums_1\Class_Task\bin\Debug\Class_Task.exe.config
+C:\Users\opilane\projects\Contstructors_enums_1\Class_Task\bin\Debug\Class_Task.exe
+C:\Users\opilane\projects\Contstructors_enums_1\Class_Task\bin\Debug\Class_Task.pdb
+C:\Users\opilane\projects\Contstructors_enums_1\Class_Task\obj\Debug\Class_Task.exe
+C:\Users\opilane\projects\Contstructors_enums_1\Class_Task\obj\Debug\Class_Task.pdb
